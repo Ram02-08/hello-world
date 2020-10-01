@@ -1,2 +1,5 @@
 # hello-world
-just another repository but first for me
+
+Hi there ,
+hope u all doing god.
+I'm really enjoying this platform.
